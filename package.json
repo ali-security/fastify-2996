@@ -1,6 +1,6 @@
 {
   "name": "fastify",
-  "version": "3.17.0",
+  "version": "3.17.0-sp1",
   "description": "Fast and low overhead web framework, for Node.js",
   "main": "fastify.js",
   "type": "commonjs",
@@ -95,7 +95,7 @@
       "url": "https://james.sumners.info"
     },
     {
-      "name": "Denis Fäcke",
+      "name": "Denis F\u00e4cke",
       "url": "https://github.com/SerayaEryn"
     },
     {
@@ -191,7 +191,8 @@
     "rfdc": "^1.1.4",
     "secure-json-parse": "^2.0.0",
     "semver": "^7.3.2",
-    "tiny-lru": "^7.0.0"
+    "tiny-lru": "^7.0.0",
+    "content-type": "^1.0.4"
   },
   "standard": {
     "ignore": [
